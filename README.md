@@ -94,7 +94,6 @@ To verify the build, I checked build artifacts in S3. Seeing the artifact tells 
 
 ---
 
-## Automating Testing
 
 ---
 

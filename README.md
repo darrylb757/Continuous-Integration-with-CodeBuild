@@ -1,10 +1,9 @@
 # Continuous-Integration-with-CodeBuild
  will learn what Continuous Integration means, and how to set it up using AWS CodeBuild. I'm doing this project to learn to build from scratch a CI/CD pipeline that automates the build and deployment of a web app. This is a 100% hands-on challenge
- <img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+
 
 # Continuous Integration with CodeBuild
 
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-devops-codebuild-updated)
 
 **Author:** Darryl Brown  
 **Email:** darrylbrown1991@gmail.com
